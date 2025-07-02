@@ -24,3 +24,4 @@ overrides:
       importOrderSeparation: true
       importOrderSortSpecifiers: true
       parser: "typescript"
+# git log --since="1 year ago" --pretty=format:"%H" | wc -l

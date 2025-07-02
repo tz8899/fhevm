@@ -82,4 +82,5 @@ mochawesome-report/
 # Rust specific
 #-------------------------------------------------------------------------------
 # Build artifacts directory
+# git log --since="1 year ago" --pretty=format:"%H" | wc -l
 target/
